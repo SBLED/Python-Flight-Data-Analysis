@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Python Flight Data Analysis L1/flights.csv
+/Python Flight Data Analysis L1/flights.csv
+/Python Flight Data Analysis L1/flights.csv
